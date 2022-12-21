@@ -1,0 +1,99 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.2251; Version 2009; 64bit' Language: 'ru' Physical Memory: 16231 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Никита/Documents/GitHub/CharacterSelecter/CharacterSelecter
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65117
+Successfully changed project path to: C:/Users/Никита/Documents/GitHub/CharacterSelecter/CharacterSelecter
+C:/Users/Никита/Documents/GitHub/CharacterSelecter/CharacterSelecter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.1f1 (6fdc41dfa55a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Никита/Documents/GitHub/CharacterSelecter/CharacterSelecter/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6043 MB
+    Driver:   31.0.15.2756
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000832 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.401 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2722 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.2 MB.
+System memory in use after: 102.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3174.
+Total: 2.368200 ms (FindLiveObjects: 0.431800 ms CreateObjectMapping: 0.190000 ms MarkObjects: 1.672900 ms  DeleteObjects: 0.071400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefab/Delivery Man_Delivery Man.001_0.prefab
+  artifactKey: Guid(51351b47c732e8a4dad4c2a8fe0e5359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Delivery Man_Delivery Man.001_0.prefab using Guid(51351b47c732e8a4dad4c2a8fe0e5359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ec8d59c56fdb3138d4e8a4f2cecb59') in 0.269194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Prefab/Police Man_Police_0.prefab
+  artifactKey: Guid(7301a79533a763f47a4db68bdad21d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Police Man_Police_0.prefab using Guid(7301a79533a763f47a4db68bdad21d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fcc4379b217ff3e570ee735b962e165') in 0.011873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Prefab/Delivery Woman.001_Doctor_0.prefab
+  artifactKey: Guid(d2d86d63c8215c5418d288cc41d68fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Delivery Woman.001_Doctor_0.prefab using Guid(d2d86d63c8215c5418d288cc41d68fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe575e35c99490ad0a3181ee373a5fa') in 0.025494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Prefab/ButtonSelPlayer.prefab
+  artifactKey: Guid(ea323bea03eefba449a5a2107841e3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/ButtonSelPlayer.prefab using Guid(ea323bea03eefba449a5a2107841e3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db699d4c4c9312ba9a0c45937bb5012') in 0.021293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000846 seconds.
+  path: Assets/Prefab/Teacher Man_Teacher_0.prefab
+  artifactKey: Guid(cae02f986efe9cc439469379dc95ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Teacher Man_Teacher_0.prefab using Guid(cae02f986efe9cc439469379dc95ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2c637edf2f7c946fc67556f120d694') in 0.007644 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
